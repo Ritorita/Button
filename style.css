@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+#btn{
+    background-color: rebeccapurple;
+    color: white;
+    padding: 1rem;
+    font-size: 1.2rem;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 2px 3px 7px rgba(117, 9, 9, 0.5);
+}
